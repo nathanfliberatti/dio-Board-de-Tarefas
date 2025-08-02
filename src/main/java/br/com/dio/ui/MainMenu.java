@@ -3,8 +3,8 @@ package br.com.dio.ui;
 import br.com.dio.persistence.entity.BoardColumnEntity;
 import br.com.dio.persistence.entity.BoardColumnKindEnum;
 import br.com.dio.persistence.entity.BoardEntity;
-import br.com.dio.persistence.service.BoardQueryService;
-import br.com.dio.persistence.service.BoardService;
+import br.com.dio.service.BoardQueryService;
+import br.com.dio.service.BoardService;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
